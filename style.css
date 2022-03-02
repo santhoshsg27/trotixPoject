@@ -1,0 +1,49 @@
+.bg-warning-color {
+    background: #ffea77 !important;
+}
+.active {
+    border-bottom: 2px solid black;
+}
+.br {
+    border-radius: 10px;
+}
+
+.nav-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+.fs1{
+    font-size: 5rem !important;
+}
+.sigma-bg-darkgray {
+    background-color: #666;
+    color: #FFF !important;
+}
+.sigma-bg-gray {
+    background-color: #999;
+    color: #272323;
+}
+.f1 {
+    font-size: medium;
+}
+.t-j {
+    text-align: justify;
+}
+.active {
+    border-bottom: 0px solid black;
+}
+.owl-item {
+    display: flex;
+    justify-content: center;
+}
+
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100% !important;
+}
+.bg-bottom {
+    background-color: #fff7cc;
+}
